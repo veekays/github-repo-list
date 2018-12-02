@@ -8,8 +8,10 @@ npm install
 ``` 
 to install dependencies.
 
+Install all dependencies with node 8.
+
 ## Usage
-this is how you can get the repositories of specific user.
+This is how you can get the repositories of specific user.
 ```URL
 http://localhost:3000/{github-username}
 ```

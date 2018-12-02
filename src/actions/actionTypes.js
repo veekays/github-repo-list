@@ -1,0 +1,4 @@
+export const GET_PROFILE = 'GET_PROFILE';
+export const GET_REPOS = 'GET_REPOS';
+export const LOADING_REPOS = 'LOADING_REPOS';
+export const ERR_LOADING_REPOS = 'ERR_LOADING_REPOS';
